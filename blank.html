@@ -1,4 +1,8 @@
-## Welcome to Tech Firm Leadership
+<script type="text/javascript">
+    function get_action(form) {
+        form.action = form_action;
+    }
+</script>
 
 Instructions for using our Attendy app.
 
@@ -6,7 +10,7 @@ We generate a weekly code using this website. :)
 
 What do you want the code to be?
 
-<form action="/qr_code.php">
+<form onsubmit="get_action(this);">
   Weekly code:<br>
   <input type="text"><br>
   <input type="submit" value="Submit">
