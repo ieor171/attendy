@@ -1,3 +1,4 @@
+<html>
 ## Welcome to Tech Firm Leadership
 
 For instructors, what do you want the weekly code to be?
@@ -24,7 +25,7 @@ For students,
 3) Send the email with your name as the subject, but please don't change the message.
 
 That's it, happy checking in! :)
-
+</html>
 <script>
 function doSomething() {
     document.getElementById('qr_code').src='https://chart.googleapis.com/chart?      cht=qr&chl=MATMSG%3ATO%3Aieor171.berkeley%40gmail.com%3BSUB%3A%3BBODY%3A' + qr + '%3B%3B&chs=180x180&choe=UTF-8&chld=L|2';
