@@ -7,7 +7,7 @@ Code of the day:
 For students, 
 1) Download the QR Reading app from the app store.
 2) Scan the QR code.
-3) Send the email with your name as the subject.
+3) Send the email with your name as the subject, but please don't change the message.
 
 That's it, happy checking in! :)
 
